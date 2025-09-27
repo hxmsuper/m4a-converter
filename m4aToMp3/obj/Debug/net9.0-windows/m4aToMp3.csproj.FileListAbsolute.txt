@@ -1,0 +1,20 @@
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\bin\Debug\net9.0-windows\m4a转换器 by clabs.exe
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\bin\Debug\net9.0-windows\m4a转换器 by clabs.deps.json
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\bin\Debug\net9.0-windows\m4a转换器 by clabs.runtimeconfig.json
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\bin\Debug\net9.0-windows\m4a转换器 by clabs.dll
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\bin\Debug\net9.0-windows\m4a转换器 by clabs.pdb
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\App.g.cs
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4a转换器 by clabs_MarkupCompile.cache
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4a转换器 by clabs_MarkupCompile.lref
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\MainWindow.baml
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4a转换器 by clabs.g.resources
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4aToMp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4aToMp3.AssemblyInfoInputs.cache
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4aToMp3.AssemblyInfo.cs
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4aToMp3.csproj.CoreCompileInputs.cache
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4a转换器 by clabs.dll
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\refint\m4a转换器 by clabs.dll
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4a转换器 by clabs.pdb
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\m4aToMp3.genruntimeconfig.cache
+D:\AllProjects\WindowsProjects\m4aToMp3\m4aToMp3\obj\Debug\net9.0-windows\ref\m4a转换器 by clabs.dll
