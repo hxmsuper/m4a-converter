@@ -11,7 +11,9 @@
 - FFmpeg（需要将ffmpeg.exe放在程序目录下）
 
 ## 下载FFmpeg
-从 https://ffmpeg.org/download.html 下载Windows版本的FFmpeg，将ffmpeg.exe复制到m4aToMp3.exe同目录下。
+从 https://ffmpeg.org/download.html 下载Windows版本的FFmpeg，将ffmpeg.exe复制到程序运行目录下。
+
+**注意：** ffmpeg.exe文件较大（约94MB），未包含在仓库中，请自行下载。
 
 ## 构建
 ```bash
